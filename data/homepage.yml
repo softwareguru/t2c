@@ -1,0 +1,93 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "Talks 2 Code 2022"
+
+  description: "Las mejores prácticas de los BP2C para desarrollar software"
+
+  about: "Talks 2 Code es una serie de pláticas técnicas impartidas por empresas acreditadas como Best Place to Code.
+
+
+  En Talks 2 Code, el enfoque de las pláticas será de contenidos técnicos y mejores prácticas en el desarrollo de software aplicadas en las mejores empresas para codear."
+
+
+  img: "/images/Talks 2 Code 2022 - agosto.png" 
+
+  button:
+    enable : false
+    label : "LIVE"
+    link : "/live"
+
+
+############################## Event ##############################
+event_info:
+  enable : true
+  title : "¿Te interesa contribuir a proyectos open source pero no sabes cómo hacerlo? ¡Participa!"
+  description : "El propósito principal de CCOSS es aumentar la cantidad de personas y organizaciones de Latinoamérica que contribuyen a los proyectos de código abierto."
+  contribution: "En esta edición contaremos con sesiones de contribución en vivo, iniciando en agosto."
+  cta_text: "Conoce más"
+  cta_link: "https://youtu.be/6QTSc0y69Rc"
+  features: 
+    - number : "+ 1500"
+      label : "Participantes online"
+      
+    - number : "6"
+      label : "Días"
+
+    - number : "+ 30"
+      label : "Pláticas y talleres"
+
+    - number : "49"
+      label : "horas sprint de contribución"
+
+
+
+####################### Speakers #############################
+speakers:
+  enable : false
+  title : "Keynote speakers"
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : true
+  # pricing data comes from "pricing.yml" file
+
+
+
+
+############################### Blog ######################################
+blog:
+  enable : true
+  title : "Noticias recientes"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder
+
+
+  
+############################### organized by ######################################
+
+organized_by:
+  logo: "/images/ccoss.JPG"
+
+  organizingTitle: Organizado por
+  organizerDescription: "La Cumbre de Contribuidores de Open Source Software es una iniciativa de la comunidad Open Source México. El evento es producido por Software Guru."
+  organizerButton: Conoce al equipo
+  organizerLink: "/team/"
+
+
+  collaboratingTitle: "¿Cómo colaboro?"
+  collaborationDescription: "Puedes unirte como conferencista, voluntario o patrocinador."
+  contactusButton: "Contáctanos"
+  contactLink: ""
+
+  img: "/images/1.jpg"
+  img2: "/images/2.jpg"
+  img3: "/images/3.JPG"
+  img4: "/images/4.jpg"
+  img5: "/images/5.jpg"
+  img6: "/images/6.JPG"

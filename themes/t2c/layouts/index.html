@@ -1,0 +1,186 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data }}
+
+<!-- banner 
+{{ with $data.homepage.banner }}
+<section class="section banner">
+
+  <div class="logo">
+    <img src="{{ .logo }}">
+  </div>
+
+  <div class="meta">
+    <p>{{ .date_time }}</p>
+    <p>{{ .venue }}</p>
+
+    {{ if .button.enable }}
+    {{ with .button }}
+    <a href="{{ .link | relURL }}" class="btn btn-banner1 mt-3">{{ .label }}</a>
+    {{ end }}
+    {{ end }}
+
+
+  </div>
+</section>
+{{ end }}
+ /banner -->
+
+
+<div class="section banner" style="height: 180px;">
+ 
+</div>
+
+
+<br><br>
+
+  {{ with $data.homepage.banner }}
+  <div class="container">
+  <img src="{{ .img }}" class="img-fluid">
+  <br><br><br>
+  <center>
+  <h1 style="color: #00B1E1;">{{ .title }}</h1>
+  <h3 style="color: #2E3192;">{{ .description }}</h3>
+  <br>
+  <p>{{ .about }}</p>
+  <br>
+</center>
+</div>
+
+<div style="background-color: #2E3192; padding: 30px 0px 30px 0px;">
+<center>
+  <div class="container" >
+
+       <h3  style="color: white; ">24 y 25 de agosto de 2022 | Evento Online | Gratuito</h3>
+       <br>
+      <a href="/register"><button type="button" class="btn btn-info" style="background-color: #00B1E1; border-radius: 20px;">Regístrate</button>
+      </a>
+
+  </div>
+</center>
+</div>
+  {{ end }}
+
+  <br><br>
+<div class="container">
+
+  <h2>Participando podrás:</h2>
+
+  <li>Descubrir las mejores prácticas que aplican los BP2C para desarrollar software.</li>
+  <li>Estar en comunicación directa con los representantes de las BP2C por medio de Slack.</li>
+  <li>Conocer las vacantes a las que puedes aplicar.</li>
+  <li>Unirte a la conversación para resolver dudas o intercambiar puntos de vista con colegas.</li>
+  <li>Participar en el kit virtual y disfrutar de sus beneficios.</li>
+  <br>
+  <h4>¿Te lo vas a perder?</h4>
+</div>
+<br><br>
+
+<div style="background-color: #00B1E1; padding: 30px 0px 30px 0px;">
+  <h2 style="color: white; text-align: center;">Conoce los temas de las charlas próximamente</h2>
+</div>
+
+<!-- event_info  
+{{ if $data.homepage.event_info.enable }}
+{{ partial "event_info.html" . }}
+{{ end }}
+ /event_info -->
+
+
+<!-- schedule
+{{ if $data.homepage.schedule.enable }}
+{{ partial "schedule.html" . }}
+{{ end }}
+ /schedule -->
+
+
+
+<!-- speaker 
+{{ if $data.homepage.speakers.enable }}
+<section class="section speakers">
+  <div class="container">
+    {{ with $data.homepage.speakers }}
+    {{ partial "section_title.html" . }}
+    {{ end }}
+    <div class="speakers-wrapper">
+      {{ range (where (where .Site.RegularPages.ByTitle "Type" "speakers") ".Params.featured" true) }}
+
+      <div class="speaker">
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle">
+        </a>
+        <h4 class="mb-0 mt-3">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h4>
+        <p>{{ .Params.Designation }}</p>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+ /speaker -->
+
+
+<!-- sponsor -->
+{{ if $data.sponsors }}
+<section class="section-sponsors section">
+
+    <br><br>
+    <div class="container">
+      <div class="row section-heading">
+        <div class="col-md-8">
+          <div class="heading" >
+            <h2>Empresas confirmadas</h2>
+          </div>
+        </div>
+      </div>
+
+        {{ $data := index .Site.Data }}
+        {{ with $data.sponsors }}
+        {{ range .sponsor_group }}
+        <div class="row mb-5">
+            <div class="col-lg-8">
+                <h4 class="mb-4 letter-spacing text-sm" >{{ .title | markdownify }}</h4>
+            </div>
+            <div class="sponsor-strip {{ .slug }}">
+                {{ range .sponsor }}
+                <div class="sponsor-item" >
+                    {{ if and (ne .link "") (ne .link "#") }}
+                    <a href="{{ .link }}"><img src="{{ .logo | absURL }}" alt="" class="img-fluid"></a>
+                    {{ else }}
+                    <img src="{{ .logo | absURL }}" alt="" class="img-fluid">
+                    {{ end }}
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+        {{ if .sponsorship.enable }}
+        {{ with .sponsorship }}
+        <div class="col-lg-12">
+            <a href="{{ .link | safeURL }}" class="btn btn-banner2" target="blank">{{ .label }} <i
+                    class="fas fa-arrow-circle-right"></i></a>
+        </div>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </div>
+</section>
+{{ end }}
+<!-- /sponsor -->
+
+<!-- blog 
+{{ if $data.homepage.blog.enable }}
+{{ partial "blog.html" . }}
+{{ end }}
+/blog -->
+
+<!-- organized-by
+{{ if $data.homepage.sponsors.enable }}
+{{ partial "organized-by.html" . }}
+{{ end }}
+ /organized-by -->
+
+{{ end }}
+

@@ -1,0 +1,166 @@
+
+######################## default configuration ####################
+baseURL = "https://bestplacetocode.com/t2c"
+title = "Talks 2 Code"
+enableRobotsTXT = true
+DefaultContentLanguage = "en"
+
+theme = "t2c"
+# post pagination
+paginate = "8"
+
+
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  speaker = "speakers"
+  track = "tracks"
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "/plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "/plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "/plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "/plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.js"
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/4a6d2efc2e.js"
+
+############################## navigation ###############################
+[menu]
+
+  [[menu.main]]
+  name = "Empresas confirmadas"
+  URL = "/sponsors/"
+  weight = 2
+
+  #[[menu.main]]
+  #name = "Sesiones"
+  #URL = "/sessions/2021"
+  #weight = 2
+  
+
+  #[[menu.main]]
+  #  identifier = "program"
+  #  name = "Agenda"
+  #  url = "/schedule"
+  #  weight = 1
+
+  #[[menu.main]]
+  #name = "Talleres"
+  #URL = "/sessions/2021/"
+  #weight = 2  
+
+  #[[menu.main]]
+  #name = "Talleres"
+  #URL = "/workshops"
+  #weight = 2
+
+  #[[menu.main]]
+  #name = "Conferencistas"
+  #URL = "/speakers"
+  #weight = 3
+
+
+  #[[menu.main]]
+  #name = "Patrocinadores"
+  #URL = "/sponsors"
+  #weight = 3
+
+  #[[menu.main]]
+  #name = "Reconocimientos"
+  #URL = "/awards"
+  #weight = 4
+  
+  #[[menu.main]]
+  #name = "Kit virtual"
+  #URL = "/kit-virtual"
+  #weight = 5
+
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "/networking"
+  #weight = 5
+
+  #[[menu.main]]
+  #name = "FAQ"
+  #URL = "/faq"
+  #weight = 7
+
+
+
+#################### default parameters ################################
+[params]
+logo = "/images/logo-monochrome.svg"
+home = "Home"
+
+# Meta data
+description = """Talks 2 Codees otro fantástico evento de Software Guru."""
+images = ["/images/Talks 2 Code 2022 - agosto.png"]
+twitter_user = ""
+email = "https://bestplacetocode.com/es/about/contacto"
+author = "Software Guru"
+
+
+#Habilitar nuevos analitycs (new id)
+
+# Google Analitycs
+#google_analitycs_id = "UA-165970215-1" # your id
+# search for blog page
+#search = true
+
+disclaimer = """Best Place to Code es una iniciativa más de SG Software Guru, porque "we ♥ devs"."""
+
+
+# Preloader
+[params.preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Regístrate"
+link = "/register"
+
+
+
+############################# social icon ############################
+
+[[params.social]]
+icon = "tf-ion-social-twitter"
+link = "https://twitter.com/bestplacetocode"
+
+#[[params.social]]
+#icon = "fas fa-envelope"
+#link = "mailto:hola@ccoss.org"
+
+#[[params.footer_about]]
+
+#name = "?Quién organiza¿"
+#link = "/team/"
+
+
+#[[params.footer_previous]]
+#name = "Código de Conducta"
+#link = "/coc/"
+
+#[[params.footer_resources]]
+#name = "Email"
+#link = "mailto:hola@ccoss.org"

@@ -1,9 +1,10 @@
 
 ######################## default configuration ####################
-baseURL = "https://bestplacetocode.com/t2c"
+baseURL = "https://bestplacetocode.com/t2c/"
 title = "Talks 2 Code"
 enableRobotsTXT = true
 DefaultContentLanguage = "en"
+RemovePathAccents = true
 
 theme = "t2c"
 # post pagination

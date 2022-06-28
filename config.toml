@@ -107,12 +107,12 @@ link="https://kit.fontawesome.com/4a6d2efc2e.js"
 
 #################### default parameters ################################
 [params]
-logo = "/images/logo-monochrome.svg"
+logo = "/t2c/images/logo-monochrome.svg"
 home = "Home"
 
 # Meta data
 description = """Talks 2 Codees otro fantástico evento de Software Guru."""
-images = ["/images/Talks 2 Code 2022 - agosto.png"]
+images = ["/t2c/images/hero-agosto2022.png"]
 twitter_user = ""
 email = "https://bestplacetocode.com/es/about/contacto"
 author = "Software Guru"

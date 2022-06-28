@@ -7,15 +7,15 @@ sponsor_group:
     slug : "gold"
     sponsor:
 
-      - logo : "/images/logos/Simpat.png"
+      - logo : "images/logos/Simpat.png"
         link : "https://bestplacetocode.com/es/company/simpat-tech"
-      - logo : "/images/logos/GrowITlogoFullColor-ai.jpg"
+      - logo : "images/logos/GrowITlogoFullColor-ai.jpg"
         link : "http://grw.com.mx"
-      - logo : "/images/logos/Inbest.png"
+      - logo : "images/logos/Inbest.png"
         link : "https://bestplacetocode.com/es/company/inbestcloud"
-      - logo : "/images/logos/PROSA.jpg"
+      - logo : "images/logos/PROSA.jpg"
         link : "https://www.prosamexico.mx/"
-      - logo : "/images/logos/ClickiT logo.png"
+      - logo : "images/logos/ClickiT logo.png"
         link : "https://bestplacetocode.com/es/company/clickit-devops-and-software-development"
 
                       

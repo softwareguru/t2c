@@ -48,7 +48,7 @@ link="https://kit.fontawesome.com/4a6d2efc2e.js"
 
   [[menu.main]]
   name = "Empresas confirmadas"
-  URL = "/sponsors/"
+  URL = "sponsors/"
   weight = 2
 
   #[[menu.main]]
@@ -138,7 +138,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Regístrate"
-link = "/register"
+link = "/t2c/register"
 
 
 

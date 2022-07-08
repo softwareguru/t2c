@@ -21,6 +21,10 @@ sponsor_group:
       #  link : "https://careers.edicomgroup.com/"
       - logo : "images/logos/kata-logo.png"
         link : "https://bestplacetocode.com/en/company/kata-software"
+      - logo : "images/logos/htech.png"
+        link : "https://htech.com/"
+      - logo : "images/logos/Logotipo Contpaqi.png"
+        link : "https://www.contpaqi.com/"
 
                       
 # call to action in sponsor

@@ -17,15 +17,18 @@ sponsor_group:
         link : "https://www.prosamexico.mx/"
       - logo : "images/logos/ClickiT logo.png"
         link : "https://bestplacetocode.com/es/company/clickit-devops-and-software-development"
-      #- logo : "images/logos/Logo_ Edicom.jpg"
-      #  link : "https://careers.edicomgroup.com/"
+      - logo : "images/logos/Logo_ Edicom.jpg"
+        link : "https://careers.edicomgroup.com/"
       - logo : "images/logos/kata-logo.png"
         link : "https://bestplacetocode.com/en/company/kata-software"
       - logo : "images/logos/htech.png"
         link : "https://htech.com/"
       - logo : "images/logos/Logotipo Contpaqi.png"
         link : "https://www.contpaqi.com/"
-
+      - logo : "images/logos/Honeywell-Logo.png"
+        link : "https://www.honeywell.com/us/en"
+      #- logo : "images/logos/.png"
+      #  link : ""
                       
 # call to action in sponsor
 sponsorship:

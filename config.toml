@@ -118,7 +118,6 @@ twitter_user = ""
 email = "https://bestplacetocode.com/es/about/contacto"
 author = "Software Guru"
 
-
 #Habilitar nuevos analitycs (new id)
 
 # Google Analitycs
@@ -145,6 +144,14 @@ link = "/t2c/register"
 ############################# social icon ############################
 
 [[params.social]]
+icon = "tf-ion-social-facebook"
+link = "https://www.facebook.com/bestplacetocode"
+
+[[params.social]]
+icon = "fa-brands fa-instagram"
+link = "https://www.instagram.com/bestplacetocode/"
+
+[[params.social]]
 icon = "tf-ion-social-twitter"
 link = "https://twitter.com/bestplacetocode"
 
@@ -160,8 +167,8 @@ link = "https://twitter.com/bestplacetocode"
 
 #[[params.footer_previous]]
 #name = "Código de Conducta"
-#link = "/coc/"
+#link = "https://bestplacetocode.com/es/events/coc"
 
-#[[params.footer_resources]]
-#name = "Email"
-#link = "mailto:hola@ccoss.org"
+[[params.footer_resources]]
+name = "Contáctanos"
+link = "https://bestplacetocode.com/es/about/contacto"

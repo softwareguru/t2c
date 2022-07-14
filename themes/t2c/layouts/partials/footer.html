@@ -10,15 +10,13 @@
 					{{ end }}
 				</ul>
 			</div>		
-			<!--
+			
 			<div>
-				<h5 style="color: white;">Acerca de</h5>
-				<ul class="footer_links">
-					{{ range .Site.Params.footer_about }}
-					<li><a href="{{ .link | safeURL }}">{{ .name }}</a></li>
-					{{ end }}
-				</ul>
+				<a href="https://bestplacetocode.com/es/events/coc">
+					<h5 style="color: white;">Código de conducta</h5>
+				</a>
 			</div>
+			<!--
 			<div>
 				<h5 style="color: white;">Recursos</h5>
 				<ul class="footer_links">
@@ -27,14 +25,12 @@
 					{{ end }}
 				</ul>
 			</div>
+			-->
 			<div>
-				<h5 style="color: white;">Contáctanos</h5>
-				<ul class="footer_links">
-					{{ range .Site.Params.footer_resources }}
-					<li><a href="{{ .link | safeURL }}">{{ .name }}</a></li>
-					{{ end }}
-				</ul>
-			</div>-->	
+				<a href="https://bestplacetocode.com/es/about/contacto">
+					<h5 style="color: white;">Contáctanos</h5>
+				</a>
+				
 		</div>
 		{{ with .Site.Params.disclaimer }}
 		<div class="disclaimer" style="color: white;">

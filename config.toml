@@ -63,15 +63,10 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   #  url = "/schedule"
   #  weight = 1
 
-  #[[menu.main]]
-  #name = "Talleres"
-  #URL = "/sessions/2021/"
-  #weight = 2  
-
-  #[[menu.main]]
-  #name = "Talleres"
-  #URL = "/workshops"
-  #weight = 2
+  [[menu.main]]
+  name = "Quiero ser Best Place to Code"
+  URL = "https://bestplacetocode.com/es/about/process"
+  weight = 2  
 
   #[[menu.main]]
   #name = "Conferencistas"

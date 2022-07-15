@@ -41,7 +41,7 @@ link = "/plugins/bootstrap/js/bootstrap.min.js"
 [[params.plugins.js]]
 link="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.js"
 [[params.plugins.js]]
-link="https://kit.fontawesome.com/4a6d2efc2e.js"
+link="https://kit.fontawesome.com/a6f10b653b.js"
 
 ############################## navigation ###############################
 [menu]
@@ -144,7 +144,7 @@ link = "/t2c/register"
 ############################# social icon ############################
 
 [[params.social]]
-icon = "tf-ion-social-facebook"
+icon = "fa-brands fa-facebook"
 link = "https://www.facebook.com/bestplacetocode"
 
 [[params.social]]
@@ -152,7 +152,7 @@ icon = "fa-brands fa-instagram"
 link = "https://www.instagram.com/bestplacetocode/"
 
 [[params.social]]
-icon = "tf-ion-social-twitter"
+icon = "fa-brands fa-twitter"
 link = "https://twitter.com/bestplacetocode"
 
 #[[params.social]]

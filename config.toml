@@ -57,11 +57,10 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   #weight = 2
   
 
-  #[[menu.main]]
-  #  identifier = "program"
-  #  name = "Agenda"
-  #  url = "/schedule"
-  #  weight = 1
+  [[menu.main]]
+    name = "Agenda"
+    url = "schedule/"
+    weight = 1
 
   [[menu.main]]
   name = "Quiero ser Best Place to Code"
@@ -70,14 +69,9 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 
   #[[menu.main]]
   #name = "Conferencistas"
-  #URL = "/speakers"
+  #URL = "speakers/"
   #weight = 3
 
-
-  #[[menu.main]]
-  #name = "Patrocinadores"
-  #URL = "/sponsors"
-  #weight = 3
 
   #[[menu.main]]
   #name = "Reconocimientos"

@@ -6,7 +6,7 @@
       {{ .Content }}
     </div>
     <div class="speaker-strip">
-      {{ range where .Data.Pages.ByTitle "Params.year" "2021"}} 
+      {{ range where .Data.Pages.ByTitle "Params.year" "2022"}} 
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">
@@ -16,7 +16,7 @@
           </div>
           <div class="speaker-info text-center">
             <h4 class="mb-0 mt-3"><a href="{{.Permalink | relURL }}">{{ .Title }}</a></h4>
-            <p style="color: #E62485;">{{ .Params.Designation}}</p>
+            <p style="color: #244ee6;">{{ .Params.Designation}}</p>
           </div>
         </div>
       </div>

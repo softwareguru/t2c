@@ -1,7 +1,7 @@
 ---
 title: "Valther Galván"
 date: 2022-07-14T20:53:45-05:00
-image : "/images/speakers/valther-galvan.jpg"
+image : "/images/speakers/speaker.jpg"
 designation : ""
 country: ""
 twitter: ""

@@ -1,11 +1,11 @@
 ---
 title: "Valther Galván"
 date: 2022-07-14T20:53:45-05:00
-image : "/images/speakers/speaker.jpg"
-designation : ""
+image : "/images/speakers/valther-galvan.jpeg"
+designation : "Chief Information Security Officer"
 country: ""
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/company/prosamx/"
 github: ""
 year: "2022"
 ---

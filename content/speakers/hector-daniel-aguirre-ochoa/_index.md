@@ -8,6 +8,7 @@ twitter: ""
 linkedin: ""
 github: ""
 year: "2022"
+draft: true
 ---
 
 Ingeniero DevOps certificado como AWS Solutions Architect Associate, y con más de 6

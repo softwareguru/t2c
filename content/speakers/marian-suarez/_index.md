@@ -5,7 +5,7 @@ image : "/images/speakers/speakerw.jpg"
 designation : ""
 country: "mx"
 twitter: ""
-linkedin: ""
+linkedin: "https://www.linkedin.com/in/mariansuarez/"
 github: ""
 year: "2022"
 ---

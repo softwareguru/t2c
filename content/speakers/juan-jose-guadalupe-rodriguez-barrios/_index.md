@@ -2,7 +2,7 @@
 title: "Juan José Guadalupe Rodriguez Barrios"
 date: 2022-07-14T20:53:45-05:00
 image : "/images/speakers/juan-rodriguez.jpg"
-designation : "VP Engineering"
+designation : "Líder de Ingeniería"
 country: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/juan-josé-rodr%C3%ADguez-5735a9a4/"

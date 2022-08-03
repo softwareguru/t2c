@@ -2,7 +2,7 @@
 title: "Juan Carlos Sleiman"
 date: 2022-07-14T20:53:45-05:00
 image : "/images/speakers/juan-sleiman.jpg"
-designation : "Lider SysAdmin"
+designation : "Líder DevOps"
 country: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/juan-carlos-sleiman/"

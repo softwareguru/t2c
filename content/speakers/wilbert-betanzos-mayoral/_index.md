@@ -1,7 +1,7 @@
 ---
 title: "Wilbert Betanzos Mayoral"
 date: 2022-07-22T14:32:13-05:00
-image : "/images/speakers/wilbert-betanzos-mayoral.jpg"
+image : "/images/speakers/wilbert-betanzos-mayoral.png"
 designation : "Co-founder @ Grow IT Consulting"
 country: "mx"
 twitter: ""

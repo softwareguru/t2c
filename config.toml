@@ -80,7 +80,7 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   
   #[[menu.main]]
   #name = "Kit virtual"
-  #URL = "/kit-virtual"
+  #URL = "kit-virtual/"
   #weight = 5
 
   #[[menu.main]]

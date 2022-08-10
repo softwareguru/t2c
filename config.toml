@@ -100,7 +100,9 @@ logo = "/t2c/images/logo-monochrome.svg"
 home = "Home"
 
 # Meta data
-description = """Talks 2 Code es una serie de charlas impartidas por empresas acreditadas como Best Place to Code. Conoce las prácticas y técnicas que aplican organizaciones líderes para construir mejor software con mejores personas y equipos."""
+description = """Talks 2 Code es una serie de charlas impartidas por empresas acreditadas como Best Place to Code. 
+              Conoce las prácticas y técnicas que aplican organizaciones líderes para construir mejor software 
+              con mejores personas y equipos."""
 images = ["/t2c/images/hero-agosto2022.png"]
 twitter_user = "@RevistaSG"
 email = "hola@bestplacetocode.com"

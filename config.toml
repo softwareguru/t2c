@@ -77,10 +77,10 @@ link="https://unpkg.com/bootstrap-table@1.20.0/dist/bootstrap-table.min.js"
   #URL = "/awards"
   #weight = 4
   
-  #[[menu.main]]
-  #name = "Kit virtual"
-  #URL = "kit-virtual/"
-  #weight = 5
+  [[menu.main]]
+  name = "Kit virtual"
+  URL = "kit-virtual/"
+  weight = 5
 
   #[[menu.main]]
   #name = "Networking"

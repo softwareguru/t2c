@@ -1,10 +1,11 @@
 ---
-title: "GaParticipa y gana una Gift Card con valor de $200 pesos"
+title: "Participa y gana una Gift Card Amazon con valor de $100 USD."
 date: 2022-08-08T14:41:37-05:00
 description: ""
 image: /t2c/images/logos/ClickiT logo.png
-link: https://forms.gle/yiq14ne5z5EHH12d9
-button: ¡Quiero participar!
+link: https://forms.gle/dydw23KZ1ZfA2oWM9
+button: Participa
 draft: false
+weight: 3
 ---
 

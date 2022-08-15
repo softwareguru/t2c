@@ -31,8 +31,11 @@ sponsor_group:
         link : "https://www.mobiik.com/"
       - logo : "images/logos/Improving.png"
         link : "https://bestplacetocode.com/es/company/improving"
-      #- logo : "images/logos/.png"
-      #  link : ""
+      - logo : "images/logos/ROOMIE_IT.png"
+        link : "https://www.roomie-it.org/"
+      - logo : "images/logos/LUXOFT.png"
+        link : "https://career.luxoft.com/"
+
                       
 # call to action in sponsor
 sponsorship:

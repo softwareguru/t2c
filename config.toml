@@ -63,7 +63,7 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
     weight = 1
 
   [[menu.main]]
-  name = "Quiero ser Best Place to Code"
+  name = "Quiero ser BP2C"
   URL = "https://bestplacetocode.com/es/about/process"
   weight = 2  
 
@@ -83,10 +83,10 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   URL = "kit-virtual/"
   weight = 5
 
-  #[[menu.main]]
-  #name = "Networking"
-  #URL = "/networking"
-  #weight = 5
+  [[menu.main]]
+  name = "Networking"
+  URL = "networking/"
+  weight = 5
 
   [[menu.main]]
   name = "FAQ"

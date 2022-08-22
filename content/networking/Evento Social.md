@@ -3,7 +3,7 @@ title: "Nos vemos en Dev Days 4 Women Town 8 bits"
 date: 2021-10-01T16:22:17-05:00
 image: /images/networking/sprint.png
 button: ¡Quiero unirme!
-link: https://join.slack.com/t/ccoss/shared_invite/zt-8tda67q8-stdStEpGV_2cXG6wGpNm_Q
+link: https://sg1.run/gathert2c
 draft: false
 ---
 

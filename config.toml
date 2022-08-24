@@ -122,8 +122,8 @@ disclaimer = """Best Place to Code es una iniciativa más de SG Software Guru, p
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Regístrate"
-link = "/t2c/register"
+label = "Live"
+link = "/t2c/live"
 
 
 

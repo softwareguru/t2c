@@ -1,7 +1,7 @@
 ---
 title: "Únete a la conversación."
 date: 2021-10-01T16:22:17-05:00
-image: /images/networking/Slack.png
+image: /t2c/images/networking/slack.png
 description: 
 button: Unirme a Slack
 link: https://sg1.run/slackbp2c

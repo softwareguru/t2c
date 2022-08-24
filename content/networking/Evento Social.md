@@ -1,7 +1,7 @@
 ---
 title: "Nos vemos en Dev Days 4 Women Town 8 bits"
 date: 2021-10-01T16:22:17-05:00
-image: /images/networking/sprint.png
+image: /t2c/images/networking/gather.png
 button: ¡Quiero unirme!
 link: https://sg1.run/gathert2c
 draft: false

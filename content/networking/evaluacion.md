@@ -1,7 +1,7 @@
 ---
 title: "¡Danos tu opinión y participa por premios!"
 date: 2021-10-01T16:22:17-05:00
-image: /images/networking/Evaluaciones.png
+image: /t2c/images/networking/evaluacion.png
 description: 
 button: Evaluación del evento
 link: https://sg1.run/evaluaciont2c

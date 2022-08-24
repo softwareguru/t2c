@@ -1,5 +1,5 @@
 ---
-title: "Nos vemos en Dev Days 4 Women Town 8 bits"
+title: "Nos vemos en Gather Town 8 bits"
 date: 2021-10-01T16:22:17-05:00
 image: /t2c/images/networking/gather.png
 button: ¡Quiero unirme!

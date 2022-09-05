@@ -46,10 +46,10 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 ############################## navigation ###############################
 [menu]
 
-  [[menu.main]]
-  name = "Empresas confirmadas"
-  URL = "sponsors/"
-  weight = 2
+  #[[menu.main]]
+  #name = "Empresas confirmadas"
+  #URL = "sponsors/"
+  #weight = 2
 
   #[[menu.main]]
   #name = "Sesiones"
@@ -57,10 +57,10 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   #weight = 2
   
 
-  [[menu.main]]
-    name = "Agenda"
-    url = "schedule/"
-    weight = 1
+  #[[menu.main]]
+  #  name = "Agenda"
+  #  url = "schedule/"
+  #  weight = 1
 
   [[menu.main]]
   name = "Quiero ser BP2C"
@@ -78,15 +78,15 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   #URL = "/awards"
   #weight = 4
   
-  [[menu.main]]
-  name = "Kit virtual"
-  URL = "kit-virtual/"
-  weight = 5
+  #[[menu.main]]
+  #name = "Kit virtual"
+  #URL = "kit-virtual/"
+  #weight = 5
 
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking/"
-  weight = 5
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "networking/"
+  #weight = 5
 
   [[menu.main]]
   name = "FAQ"
@@ -122,8 +122,8 @@ disclaimer = """Best Place to Code es una iniciativa más de SG Software Guru, p
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Live"
-link = "/t2c/live"
+label = "Sessions"
+link = "/t2c/sessions/"
 
 
 

@@ -7,34 +7,14 @@ sponsor_group:
     slug : "gold"
     sponsor:
 
-      - logo : "images/logos/Simpat.png"
-        link : "https://bestplacetocode.com/es/company/simpat-tech"
-      - logo : "images/logos/GrowITlogoFullColor-ai.jpg"
-        link : "http://grw.com.mx"
-      - logo : "images/logos/Inbest.png"
-        link : "https://bestplacetocode.com/es/company/inbestcloud"
-      - logo : "images/logos/PROSA.jpg"
-        link : "https://www.prosamexico.mx/"
-      - logo : "images/logos/ClickiT logo.png"
-        link : "https://www.clickittech.com/careers/"
-      - logo : "images/logos/Logo_ Edicom.jpg"
-        link : "https://careers.edicomgroup.com/"
-      - logo : "images/logos/kata-logo.png"
-        link : "https://kata-software.com/"
       #- logo : "images/logos/htech.png"
       #  link : "https://htech.com/"
-      - logo : "images/logos/Logotipo Contpaqi.png"
-        link : "https://www.contpaqi.com/"
+
       - logo : "images/logos/Honeywell-Logo.png"
         link : "https://careers.honeywell.com/us/en"
-      - logo : "images/logos/mobiik.png"
+      - logo : "images/logos/T2C-Mobiik.png"
         link : "https://www.mobiik.com/"
-      - logo : "images/logos/Improving.png"
-        link : "https://bestplacetocode.com/es/company/improving"
-      - logo : "images/logos/ROOMIE_IT.png"
-        link : "https://www.roomie-it.org/"
-      - logo : "images/logos/LUXOFT.png"
-        link : "https://career.luxoft.com/"
+
 
                       
 # call to action in sponsor

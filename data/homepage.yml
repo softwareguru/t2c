@@ -1,7 +1,7 @@
 ############################# banner ################################
 banner:
   enable : true
-  title : "Talks 2 Code 2022"
+  title : "Talks 2 Code 2023"
 
   description: "Las mejores prácticas de los BP2C para desarrollar software"
 

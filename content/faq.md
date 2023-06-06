@@ -33,18 +33,6 @@ Todas las sesiones quedarán grabadas y disponibles de inmediato, así que si no
 
 <br>
 
-### ¿QUÉ NECESITO PARA PARTICIPAR?
-
-Debes generar tu pase [aquí](/t2c/register/)
-
-Previo al evento, aparecerá en el sitio web el botón: LIVE. O podrás ingresar a la página:
-Dar click al botón que dice “Ingresar / Join”. Saldrá un pop-up con el mensaje “Join event” solicitando tu dirección de email.
-
-Al introducir tu email, el sistema detectará si ya estás registrada(o) y en caso de ser así te mostrará un botón para recibir un login link por correo. Dale click y recibirás un correo con un enlace para hacer login a Talks 2 Code en Crowdcast (la plataforma que estamos utilizando para la transmisión).
-
-Si en el paso 3 el sistema no reconoce tu correo, te pedimos nos contactes: eventos@sg.com.mx
-
-<br>
 
 ### ¿QUÉ NECESITO PARA CONECTARME AL EVENTO?
 
@@ -54,13 +42,19 @@ Solo necesitas una computadora con un navegador web actualizado, de preferencia 
 
 ### ¿CÓMO PUEDO CONTACTAR CON OTROS PARTICIPANTES Y PONENTES?
 
-Para manejar esta comunicación estaremos [utilizando slack.](https://join.slack.com/t/bp2c/shared_invite/zt-1cbr037wn-XJfVpMviZhGmqPgAgyoiog) ¡Te puedes unir desde ahora! Los canales que tendremos disponibles son:
+El evento se transmitirá por una plataforma llamada Airmeet. La plataforma se compone de 3 áreas importantes
 
-* #general para conversaciones generales (saludos desde X), dinámicas, y temas que no estén atadas a una sesión.
+Recepción - Donde podrás ver las diferentes charlas que tendremos y el programa completo por día.
 
-* #support problemas con la herramienta, atención a asistentes y patrocinadores
+Stands - Aquí podrás conectar con los patrocinadores del evento, además de poder ver los diferentes links y recursos que harán disponibles para los participantes.
 
-Además cada empresa participante tendrá un canal en slack, quienes estarán organizando interesantes dinámicas, y muchos estarán buscando talento.
+Durante todo el evento podrás:
+
+- Chatear y conectar con todos en el Feed del evento
+
+- Ganar puntos por realizar ciertas actividades y participar por algunos premios que estaremos anunciando.
+
+- Evaluar el evento en general.
 
 <br>
 

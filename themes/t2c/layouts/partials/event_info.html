@@ -1,29 +1,62 @@
-{{ $data := index .Site.Data }}
+<!-- Event Info -->
 
-{{ with $data.homepage.event_info }}
-<section class="section event-info">
-  <a id="event-info"></a>
-  <div class="container">
-    <div class="content">
-      <div>
-        <h2>{{ .title }}</h2>
-        <p>{{ .description }}</p>
-        <p>{{ .contribution }}</p>
-        <a href="{{ .cta_link }}" target="_blank">
-            <span class="cta-label">{{ .cta_text }}</span> <i class="fas fa-arrow-circle-right"></i>
-        </a>
+<section class="event_info">
 
-      </div>
-
-      <div class="statistics-block">
-        {{ range .features }}
-          <div class="item">
-            <div class="numbers">{{ .number }}</div>
-            <div class="label">{{ .label }}</div>
+<div class="container">
+  <div class="previous-talks border-talks" >
+    <div class="row">
+      <div class="col-sm-8" style="padding-top: 3em;">
+        <div class="card" style="background-color: transparent; border-color: white; padding: 25px; border-radius: 15px; border-width: 4px;">
+          <div class="card-body">
+            <h2 class="event_info_title">Talks 2 Code 2023</h2>
+            <p class="card-text event_info_title">Las mejores prácticas de los BP2C para desarrollar software</p>
+            <p class="card-text event_info_title">30 de agosto | Evento Online | Gratuito</p>
+            <a href="/t2c/ediciones-anteriores" class="btn" style="background-color: transparent; border-color: white; border-radius: 10%; color: white;">EDICIONES ANTERIORES</a>
           </div>
-        {{ end }}  
+        </div>
       </div>
-    </div>    
+      <div class="col-sm-4">
+        <div class="card logo-gato" style="background-color: transparent; border: none; ">
+          <div class="card-body">
+            <img src="/t2c/images/icons/2.png" class="img-fluid" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
+
+  <div class="beneficios">
+
+    <div class="row">
+
+      <div class="col-sm-4">
+        <div class="card" style="background-color: transparent; border: none;">
+          <div class="card-body">
+            <h3 class="event_info_title">Participando podrás:</h3>
+            
+          </div>
+        </div>
+      </div>
+
+      <div class="col-sm-8">
+        <div class="card" style="background-color: transparent; border-color: white; padding: 25px; border-radius: 15px; border-width: 4px;">
+          <div class="card-body-info">
+            <li>Descubrir las mejores prácticas que aplican los BP2C para desarrollar software.</li>
+            <li>Estar en comunicación directa con los representantes de las BP2C
+              Conocer las vacantes a las que puedes aplicar.</li>
+            <li>Conocer las vacantes a las que puedes aplicar.</li>
+            <li>Unirte a la conversación para resolver dudas o intercambiar puntos de vista con colegas.</li>
+            
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <br><br><br>
+  </div>
+</div>
 </section>
-{{ end }}
+
+
+<!-- /Event Info -->

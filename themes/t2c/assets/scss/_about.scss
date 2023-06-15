@@ -1,3 +1,4 @@
+
 .about-img {
 	box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
 
@@ -48,3 +49,43 @@
 		margin-left: 0;
 	}
 }
+
+
+
+// Event info section
+
+
+.event_info{
+	background-image: url(/t2c/images/icons/background.png);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+.border-talks{
+	border-color: white;
+}
+
+.event_info_title{
+	color: white;
+}
+
+
+.card-body-info{
+	color: white;
+}
+
+.logo-gato img{
+	// Medium devices (tablets, less than 992px)
+	@media (max-width: 575.98px) { 
+	display: none;
+ }
+}
+
+
+
+
+
+
+
+

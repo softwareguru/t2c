@@ -1,42 +1,49 @@
-<footer class="section footer"  style="background-color: #2E3192;">
+<footer class="section footer event_info">
 	<div class="container">
-		<div class="footer-strip">
-			<div>
-				<h3 class="mb-3" style="color: white;">{{ .Site.Title | markdownify }}</h3>
+		<div class="row">
+			<div class="col">
+				<div>
+					<img src="/t2c/images/Logo-T2C.png" width="230px" alt="">
+				</div>	
+			</div>
+			<div class="col">
+				<div>
+					<ul class="list-inline footer-socials">  
+						{{ range .Site.Params.social }}
+						<li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}" style="color: white;"></i></a></li>
+						{{ end }}
+					</ul>
+				</div>
+			</div>
+			<div class="col">
+				<div>
+					<a href="https://bestplacetocode.com/es/events/coc">
+						<h5 style="color: white;">Código de conducta</h5>
+					</a>
+				</div>
+			</div>
+			<div class="col">
 
-				<ul class="list-inline footer-socials">
-					{{ range .Site.Params.social }}
-					<li class="list-inline-item"><a href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}" style="color: white;"></i></a></li>
-					{{ end }}
-				</ul>
-			</div>		
-			
-			<div>
-				<a href="https://bestplacetocode.com/es/events/coc">
-					<h5 style="color: white;">Código de conducta</h5>
-				</a>
+				<div>
+					<a href="https://bestplacetocode.com/es/about/contacto">
+						<h5 style="color: white;">Contáctanos</h5>
+					</a>
+					
 			</div>
-			<!--
-			<div>
-				<h5 style="color: white;">Recursos</h5>
-				<ul class="footer_links">
-					{{ range .Site.Params.footer_previous }}
-					<li><a href="{{ .link | safeURL }}">{{ .name }}</a></li>
-					{{ end }}
-				</ul>
 			</div>
-			-->
-			<div>
-				<a href="https://bestplacetocode.com/es/about/contacto">
-					<h5 style="color: white;">Contáctanos</h5>
-				</a>
-				
-		</div>
+			<div class="col">
+					
 		{{ with .Site.Params.disclaimer }}
 		<div class="disclaimer" style="color: white;">
 			{{ . }}  
 		</div>			
         {{ end }}
+			</div>
+		  </div>
+		<div class="footer-strip">
+			
+
+
 	</div>
 </footer>
 

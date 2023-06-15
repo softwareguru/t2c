@@ -1,17 +1,13 @@
+
 .section.banner {
-  /*background-color: #000a54;*/
-  background-image: url(/t2c/images/talks-2-code.jpg);
-  background-size: cover;
-  background-position: center;
- 
-  margin-top: 40px;
-  padding-bottom: 15px;
 
-  display: grid;
-  grid-template-columns: minmax(300px,1100px);
-  justify-content: center;
-
-  text-align: center;
+    background-image: url(/t2c/images/home.jpg);
+    margin-top: 50px;
+    background-size: cover;
+    background-position: left;
+    height: 100vh;
+    padding-top: 28vh;
+    text-align: center;
 
 /*
   .stripe-start {

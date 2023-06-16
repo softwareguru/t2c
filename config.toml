@@ -48,7 +48,7 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 
   [[menu.main]]
   name = "Ediciones anteriores"
-  URL = "/ediciones-anteriores"
+  URL = "ediciones-anteriores/"
   weight = 2
 
   #[[menu.main]]

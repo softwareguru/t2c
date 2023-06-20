@@ -13,9 +13,17 @@ draft: false
 
 Talks 2 Code es una serie de pláticas técnicas impartidas por empresas acreditadas como Best Place to Code. En Talks 2 Code, el enfoque de las pláticas será de contenidos técnicos y mejores prácticas en el desarrollo de software aplicadas en las mejores empresas para codear.
 
-Talks 2 Code se realizará en formato virtual el día 24 de agosto. Podrás participar desde cualquier lugar donde te encuentres.
+Talks 2 Code se realizará en formato virtual el día **miércoles 30 de agosto 2023.** Podrás participar desde cualquier lugar donde te encuentres.
 
 <br>
+
+### ¿QUÉ NECESITO PARA PARTICIPAR?
+
+Regístrate [aquí](/t2c/registro).
+
+Recibirás un correo de Airmeet te envía automáticamente un correo para que puedas confirmar tu registro. Si no lo has realizado, búscalo en tus bandejas de correo (incluida la de spam). 
+
+El título es "Registro confirmado para Talks 2 Code 2023".
 
 ### ¿CUÁL ES EL HORARIO DEL EVENTO?
 
@@ -42,19 +50,19 @@ Solo necesitas una computadora con un navegador web actualizado, de preferencia 
 
 ### ¿CÓMO PUEDO CONTACTAR CON OTROS PARTICIPANTES Y PONENTES?
 
-El evento se transmitirá por una plataforma llamada Airmeet. La plataforma se compone de 3 áreas importantes
+El evento se transmitirá por una plataforma llamada Airmeet. La plataforma se compone de dos áreas importantes:
 
-Recepción - Donde podrás ver las diferentes charlas que tendremos y el programa completo por día.
+ * **Recepción** - Donde podrás ver las diferentes charlas que tendremos y el programa completo por día.
 
-Stands - Aquí podrás conectar con los patrocinadores del evento, además de poder ver los diferentes links y recursos que harán disponibles para los participantes.
+ * **Stands** - Aquí podrás conectar con las empresas BP2C del evento, además de poder ver los diferentes links a sus vacantes
 
 Durante todo el evento podrás:
 
-- Chatear y conectar con todos en el Feed del evento
+ * Chatear y conectar con todos en el Feed del evento.
 
-- Ganar puntos por realizar ciertas actividades y participar por algunos premios que estaremos anunciando.
+ *  Ganar puntos por realizar ciertas actividades y participar por algunos premios que estaremos anunciando.
 
-- Evaluar el evento en general.
+ * Evaluar el evento en general.
 
 <br>
 

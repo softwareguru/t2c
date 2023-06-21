@@ -27,7 +27,7 @@ El título es "Registro confirmado para Talks 2 Code 2023".
 
 ### ¿CUÁL ES EL HORARIO DEL EVENTO?
 
-La agenda Talks 2 Code contará con 13 pláticas impartidas por representantes de cada una de las empresas participantes Best Place to Code a partir de las 10:00 hrs (CST).
+La agenda Talks 2 Code contará con pláticas impartidas por representantes de cada una de las empresas participantes Best Place to Code a partir de las 10:00 hrs (CST).
 
 * Hora México: 10:00 hrs.
 * Hora Perú: 10:00 hrs.
@@ -80,10 +80,10 @@ No. Si consideras que puedes aprovechar los contenidos, eres bienvenido.
 
 ### CÓDIGO DE CONDUCTA
 
-En Best Place to Code nos preocupamos por la seguridad e integridad de nuestros asistentes y todos los involucrados en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos, si quieres leer más acerca de él, puedes hacer [click aquí.](https://devday4w.com/coc)
+En Best Place to Code nos preocupamos por la seguridad e integridad de nuestros asistentes y todos los involucrados en nuestros eventos, para lo cuál, te dejamos un código de conducta que seguimos, si quieres leer más acerca de él, puedes hacer [click aquí.](/t2c/coc)
 
 <br>
 
 ### Política de privacidad de datos
 
-Conoce nuestra [política de privacidad de datos.](https://sg.com.mx/codigo-conducta)
+Conoce nuestra [política de privacidad de datos.](/t2c/politica-privacidad-de-datos)

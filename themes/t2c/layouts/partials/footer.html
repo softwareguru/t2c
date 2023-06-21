@@ -27,6 +27,12 @@
 				<div>
 					<a href="https://bestplacetocode.com/es/about/contacto">
 						<h5 style="color: white;">Contáctanos</h5>
+						<ul class="footer_links">
+							{{ range .Site.Params.footer_contact_us }}
+							<li><a target="_blank" href="{{ .link | safeURL }}">
+								<h6 style="color: white;">{{ .name }}</h6></a></li>
+							{{ end }}
+						</ul>
 					</a>
 					
 			</div>

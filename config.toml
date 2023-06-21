@@ -141,9 +141,9 @@ link = "https://www.instagram.com/bestplacetocode/"
 icon = "fa-brands fa-twitter"
 link = "https://twitter.com/bestplacetocode"
 
-#[[params.social]]
-#icon = "fas fa-envelope"
-#link = "mailto:hola@ccoss.org"
+[[params.social]]
+icon = "fas fa-envelope"
+link = "mailto:hola@bestplacetocode.com "
 
 #[[params.footer_about]]
 
@@ -155,6 +155,7 @@ link = "https://twitter.com/bestplacetocode"
 #name = "Código de Conducta"
 #link = "https://bestplacetocode.com/es/events/coc"
 
-[[params.footer_resources]]
-name = "Contáctanos"
-link = "https://bestplacetocode.com/es/about/contacto"
+
+[[params.footer_contact_us]] 
+name = "Email"
+link = "mailto:eventos@sg.com.mx"

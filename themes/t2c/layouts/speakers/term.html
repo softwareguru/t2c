@@ -6,7 +6,7 @@
       <div class="row" style="margin-top: -70px;">
           <div class="image-column col-lg-4 col-md-12 col-sm-12">
               <div class="image-box">
-                  <figure class="image"><img src="{{ .Params.Image | relURL }}" alt=""></figure>
+                  <figure class="image"><img src="/t2c{{ .Params.Image | relURL }}" alt=""></figure>
                   <ul class="social-icon-two social-icon-colored text-center">
                       {{ with .Params.twitter }}
                       {{ if ne . "" }}

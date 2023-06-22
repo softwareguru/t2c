@@ -75,6 +75,12 @@
 	color: white;
 }
 
+.card-body-img{
+
+	width: 550px;
+	transform: translate(-10%, 10%);
+}
+
 .logo-gato img{
 	// Medium devices (tablets, less than 992px)
 	@media (max-width: 575.98px) { 

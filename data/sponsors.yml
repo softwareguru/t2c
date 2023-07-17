@@ -10,15 +10,15 @@ sponsor_group:
       #- logo : "images/logos/htech.png"
       #  link : "https://htech.com/"
 
-      - logo : "images/logos/Honeywell-Logo.png"
+      - logo : "images/logos/Honeywell.png"
         link : "https://careers.honeywell.com/us/en"
       - logo : "images/logos/Logotipo Contpaqi.png"
         link : "https://www.contpaqi.com/"
       - logo : "images/logos/tech-mahindra.png"
         link : "https://www.digitalonus.com/join-us/"
-      - logo : "images/logos/Grid Dynamics.png"
+      - logo : "images/logos/grid-dynamics.png"
         link : "https://www.griddynamics.com/"
-      - logo : "images/logos/Kata.png"
+      - logo : "images/logos/kata-software.png"
         link : "https://kata-software.com/"
 
 

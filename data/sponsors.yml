@@ -22,7 +22,6 @@ sponsor_group:
         link : "https://kata-software.com/"
 
 
-                      
 # call to action in sponsor
 sponsorship:
   enable : false

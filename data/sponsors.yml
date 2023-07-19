@@ -4,7 +4,7 @@ sponsor_group:
 
 
   - title : ""
-    slug : "gold"
+    slug : "platinum"
     sponsor:
 
       #- logo : "images/logos/htech.png"
@@ -20,6 +20,8 @@ sponsor_group:
         link : "https://www.griddynamics.com/"
       - logo : "images/logos/kata-software.png"
         link : "https://kata-software.com/"
+      - logo : "images/logos/mobiik.png"
+        link : "https://www.mobiik.com/"
 
 
 # call to action in sponsor

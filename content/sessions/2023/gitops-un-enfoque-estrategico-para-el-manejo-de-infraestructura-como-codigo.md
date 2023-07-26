@@ -1,0 +1,15 @@
+---
+id: a5
+title: "GitOps: Un Enfoque Estratégico para el Manejo de Infraestructura como Código"
+slug: gitops-un-enfoque-estrategico-para-el-manejo-de-infraestructura-como-codigo
+speakers:
+ - Juan Carlos Martínez Carrillo
+format: 
+block:
+time_start: 2023-06-01T13:30:00-05:00
+time_end: 2023-06-01T14:15:00-05:00
+video:
+slides:
+---
+
+En esta charla, explicaremos a grandes rasgos la práctica conocida como GitOps. Veremos cómo el establecimiento de una estrategia de branching puede permitirnos versionar la infraestructura como código y cómo los cambios a la infra pueden desencadenarse a partir de un simple cambio en un branch de Git. Mediante una serie de analogías del mundo real, contextualizaremos los beneficios que esta práctica puede aportar a nuestras operaciones diarias.

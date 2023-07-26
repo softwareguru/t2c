@@ -1,7 +1,7 @@
 ---
 id: {{ .Name }}
 title: ""
-url: /sessions/2021/{{ .Name }}
+slug: {{ .Name }}
 speakers:
  - 
 format: 

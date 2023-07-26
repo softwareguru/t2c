@@ -47,14 +47,9 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 [menu]
 
   [[menu.main]]
-  name = "Ediciones anteriores"
-  URL = "ediciones-anteriores/"
+  name = "sesiones 2023"
+  URL = "/sessions/2023"
   weight = 2
-
-  #[[menu.main]]
-  #name = "Sesiones"
-  #URL = "/sessions/2021"
-  #weight = 2
   
 
   #[[menu.main]]

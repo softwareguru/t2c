@@ -22,6 +22,8 @@ sponsor_group:
         link : "https://kata-software.com/"
       - logo : "images/logos/mobiik.png"
         link : "https://www.mobiik.com/"
+      - logo : "images/logos/ensitech.png"
+        link : "https://ensitech.com"
 
 
 # call to action in sponsor

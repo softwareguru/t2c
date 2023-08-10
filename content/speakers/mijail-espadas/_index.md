@@ -14,7 +14,7 @@ events:
  - "2023"
 ---
 
-Arquitecto de software y consultor de TI con más de 17 años de trayectoria. Actualmente, dirige la unidad de Desarrollo de Ensitech.
+Arquitecto de software y consultor de TI con más de 17 años de trayectoria. Actualmente, es el Director de Tecnología de Ensitech.
 
 Mijail cuenta con una maestría en Tecnología en Informática y un doctorado en Tecnologías de la Información y Comunicaciones, ambos por el Tecnológico de Monterrey. Realizó su estancia doctoral en Microsoft Research.
 

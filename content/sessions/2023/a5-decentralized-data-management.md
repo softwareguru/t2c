@@ -1,13 +1,13 @@
 ---
-id: a4
+id: a5
 title: "Decentralized Data Management"
 slug: decentralized-data-management
 speakers:
  - Gustavo Adolfo Aleman Sanchez
-format: 
-block:
-time_start: 2023-06-01T13:30:00-05:00
-time_end: 2023-06-01T14:15:00-05:00
+format: session
+block: 2023
+time_start: 2023-08-30T11:40:00-06:00
+time_end: 2023-08-30T12:20:00-06:00
 video:
 slides:
 ---

@@ -47,20 +47,15 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 [menu]
 
   [[menu.main]]
-  name = "sesiones 2023"
-  URL = "sessions/2023/"
+  name = "Agenda"
+  URL = "agenda/"
   weight = 2
   
-
-  #[[menu.main]]
-  #  name = "Agenda"
-  #  url = "schedule/"
-  #  weight = 1
 
   [[menu.main]]
   name = "Quiero ser BP2C"
   URL = "https://bestplacetocode.com/es/about/process"
-  weight = 2  
+  weight = 3
 
   [[menu.main]]
   name = "Conferencistas"

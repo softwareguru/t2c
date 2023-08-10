@@ -1,13 +1,13 @@
 ---
-id: a2
+id: desatando-el-poder-de-las-pruebas-unitarias-construyendo-software-robusto-y-confiable
 title: "Desatando el Poder de las Pruebas Unitarias: Construyendo Software Robusto y Confiable"
 slug: desatando-el-poder-de-las-pruebas-unitarias-construyendo-software-robusto-y-confiable
 speakers:
  - Janiel Baldemar Noh Celis
-format: 
-block:
-time_start: 2023-06-01T13:30:00-05:00
-time_end: 2023-06-01T14:15:00-05:00
+format: session
+block: 2023
+time_start: 2023-08-30T10:20:00-06:00
+time_end: 2023-08-30T11:00:00-06:00
 video:
 slides:
 ---

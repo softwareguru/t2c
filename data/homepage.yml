@@ -18,7 +18,6 @@ banner:
     label : "LIVE"
     link : "/live"
 
-
 ############################## Event ##############################
 event_info:
   enable : true

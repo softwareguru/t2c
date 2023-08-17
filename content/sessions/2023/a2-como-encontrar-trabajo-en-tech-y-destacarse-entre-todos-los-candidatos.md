@@ -1,6 +1,6 @@
 ---
 id: a2
-title: "Como encontrar trabajo en tech y destacarse entre todos los candidatos"
+title: "Cómo encontrar trabajo en tech y destacarse entre todos los candidatos"
 slug: como-encontrar-trabajo-en-tech-y-destacarse-entre-todos-los-candidatos
 speakers:
  - Annelis Fuenmayor 

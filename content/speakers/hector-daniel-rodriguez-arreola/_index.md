@@ -3,7 +3,7 @@ title: "Hector Daniel Rodriguez Arreola"
 date: 2022-07-26T23:02:37-05:00
 images: 
  - "images/speakers/hector-daniel-rodriguez-arreola.png"
-designation : "HDirector R&D"
+designation : "Director R&D"
 country: "mx"
 twitter: ""
 linkedin: "https://www.linkedin.com/in/streetwizard17/"

@@ -12,7 +12,6 @@ video:
 slides:
 ---
 
-
 Durante el último año nuestra industria ha enfrentado una serie de desafíos como layoffs masivos, disminución en la inversión en la región, el inicio de la era de la AI, etc; las cuales en muchos casos han dado como resultado en jornadas de trabajo extensivas, generar una cultura de estar siempre disponibles, burnout, y en general una disminución de la satisfacción laboral y motivación; esto nos ha llevado a una reevaluación extensiva de la manera en la que laboramos en el día a día.
 En esta charla en la que se abordarán temas clave como el equilibrio entre el trabajo y la vida personal, el desarrollo de la cultura organizacional, y el uso de herramientas como AI para la potenciación de nuestras habilidades humanas, analizaremos casos de transformaciones exitosas, identificando barreras sistémicas y proponiendo soluciones concretas; daremos algunos tips para iniciar cambios positivos dentro de sus organizaciones.
 

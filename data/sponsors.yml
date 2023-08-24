@@ -3,7 +3,7 @@ title : "Patrocinadores"
 sponsor_group:
 
 
-  - title : ""
+  - title : "Empresas confirmadas"
     slug : "platinum"
     sponsor:
 
@@ -24,6 +24,15 @@ sponsor_group:
         link : "https://www.mobiik.com/"
       - logo : "images/logos/ensitech.png"
         link : "https://ensitech.com"
+
+
+  - title : "Apoyado por"
+    slug : "gold"
+    sponsor:
+      - logo : "images/logos/Getonboard.png"
+        link : "https://www.getonbrd.com/"
+      - logo : "images/logos/Amiti.png"
+        link : "https://amiti.org.mx/"
 
 
 # call to action in sponsor

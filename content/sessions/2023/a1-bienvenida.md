@@ -1,7 +1,7 @@
 ---
 id: a1
-title: "Bienvenida"
-slug: bienvenida
+title: "Bienvenida + Tendencias laborales para profesionistas de software"
+slug: bienvenida-tendendicas-laborales  
 speakers:
  - Pedro Galvan
 format: session
@@ -11,3 +11,11 @@ time_end: 2023-08-30T09:40:00-06:00
 video:
 slides:
 ---
+
+Platicaremos sobre los principales factores laborales que enfrentan los profesionistas de software en 2023. Abordaremos temas como:
+
+ * Habilidades con mayor demanda y proyección hacia el futuro
+ * Trabajo remoto vs regreso a oficina
+ * Qué consideraciones tener cuando no estás en nómina
+ * Cómo realizar colaboraciones externas sin tener problemas
+ * Impacto de la IA generativa

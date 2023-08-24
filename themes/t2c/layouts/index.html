@@ -66,20 +66,14 @@
     <br><br>
     <div class="container">
 
-      <div class="row section-heading">
-        <div class="col-md-8">
-          <div class="heading" >
-            <h2 style="color: #2E3192;">EMPRESAS CONFIRMADAS</h2>
-          </div>
-        </div>
-      </div>
-
         {{ $data := index .Site.Data }}
         {{ with $data.sponsors }}
         {{ range .sponsor_group }}
         <div class="row mb-5">
-            <div class="col-lg-8">
-                <h4 class="mb-4 letter-spacing text-sm" >{{ .title | markdownify }}</h4>
+            <div class="col-md-8">
+              <div class="heading" >
+                <h2 style="color: #2E3192;">{{ .title | markdownify }}</h2>
+              </div>
             </div>
             <div class="sponsor-strip {{ .slug }}">
                 {{ range .sponsor }}

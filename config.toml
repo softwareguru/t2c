@@ -112,8 +112,8 @@ disclaimer = """Best Place to Code es una iniciativa más de SG Software Guru, p
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "REGÍSTRATE"
-link = "/t2c/registro"
+label = "EN VIVO"
+link = "https://us.airmeet.com/e/0dac0590-0bce-11ee-828e-f9f899f8e339"
 
 
 

@@ -8,8 +8,8 @@ format: session
 block: 2023
 time_start: 2023-08-30T13:40:00-06:00
 time_end: 2023-08-30T14:20:00-06:00
-video:
-slides:
+video: https://youtu.be/rdMRfAZT3Jw
+slides: 2023/Tips-to-improve-work-conditions-in-latam.pptx
 ---
 
 Durante el último año nuestra industria ha enfrentado una serie de desafíos como layoffs masivos, disminución en la inversión en la región, el inicio de la era de la AI, etc; las cuales en muchos casos han dado como resultado en jornadas de trabajo extensivas, generar una cultura de estar siempre disponibles, burnout, y en general una disminución de la satisfacción laboral y motivación; esto nos ha llevado a una reevaluación extensiva de la manera en la que laboramos en el día a día.

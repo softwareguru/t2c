@@ -10,7 +10,6 @@ theme = "t2c"
 # post pagination
 paginate = "8"
 
-
 # output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -47,12 +46,6 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
 [menu]
 
   [[menu.main]]
-  name = "Agenda"
-  URL = "agenda/"
-  weight = 2
-  
-
-  [[menu.main]]
   name = "Quiero ser BP2C"
   URL = "https://bestplacetocode.com/es/about/process"
   weight = 3
@@ -61,7 +54,6 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   name = "Conferencistas"
   URL = "speakers/"
   weight = 3
-
 
   #[[menu.main]]
   #name = "Reconocimientos"
@@ -82,8 +74,6 @@ link="https://kit.fontawesome.com/a6f10b653b.js"
   name = "FAQ"
   URL = "faq/"
   weight = 7
-
-
 
 #################### default parameters ################################
 [params]
@@ -112,10 +102,8 @@ disclaimer = """Best Place to Code es una iniciativa más de SG Software Guru, p
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "EN VIVO"
-link = "https://us.airmeet.com/e/0dac0590-0bce-11ee-828e-f9f899f8e339"
-
-
+label = "SESIONES"
+link = "/t2c/sessions/2023"
 
 ############################# social icon ############################
 

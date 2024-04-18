@@ -4,26 +4,14 @@ sponsor_group:
 
 
   - title : "Empresas confirmadas"
-    slug : "platinum"
+    slug : "gold"
     sponsor:
 
       #- logo : "images/logos/htech.png"
       #  link : "https://htech.com/"
-
-      - logo : "images/logos/Honeywell.png"
-        link : "https://careers.honeywell.com/us/en"
+   
       - logo : "images/logos/T2C_Contpaqi.png"
         link : "https://www.contpaqi.com/"
-      - logo : "images/logos/tech-mahindra.png"
-        link : "https://www.digitalonus.com/join-us/"
-      - logo : "images/logos/grid-dynamics.png"
-        link : "https://www.griddynamics.com/"
-      - logo : "images/logos/kata-software.png"
-        link : "https://kata-software.com/"
-      - logo : "images/logos/mobiik.png"
-        link : "https://www.mobiik.com/"
-      - logo : "images/logos/ensitech.png"
-        link : "https://ensitech.com"
 
 
   - title : "Apoyado por"
@@ -31,9 +19,6 @@ sponsor_group:
     sponsor:
       - logo : "images/logos/Getonboard.png"
         link : "https://www.getonbrd.com/"
-      - logo : "images/logos/Amiti.png"
-        link : "https://amiti.org.mx/"
-
 
 # call to action in sponsor
 sponsorship:
